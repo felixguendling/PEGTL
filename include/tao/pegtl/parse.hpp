@@ -5,6 +5,7 @@
 #ifndef TAO_PEGTL_PARSE_HPP
 #define TAO_PEGTL_PARSE_HPP
 
+#include <exception>
 #include <type_traits>
 
 #include "apply_mode.hpp"
